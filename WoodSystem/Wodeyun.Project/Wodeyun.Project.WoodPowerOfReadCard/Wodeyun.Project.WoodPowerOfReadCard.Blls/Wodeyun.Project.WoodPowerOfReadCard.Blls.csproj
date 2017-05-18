@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F232949-8B93-4C62-B65F-69FF9BBE80CD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wodeyun.Project.WoodPowerOfReadCard.Blls</RootNamespace>
+    <AssemblyName>Wodeyun.Project.WoodPowerOfReadCard.Blls</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="WoodPowerOfReadCardBll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Blls\Wodeyun.Bf.Base.Blls.csproj">
+      <Project>{b89d6f1f-9268-49ce-8727-d2bd05950e95}</Project>
+      <Name>Wodeyun.Bf.Base.Blls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Dals\Wodeyun.Bf.Base.Dals.csproj">
+      <Project>{b4958ad7-9981-49a1-9c99-fe056f306cbf}</Project>
+      <Name>Wodeyun.Bf.Base.Dals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Enums\Wodeyun.Bf.Base.Enums.csproj">
+      <Project>{da14411d-a54e-4537-84a8-7988d32b63f6}</Project>
+      <Name>Wodeyun.Bf.Base.Enums</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Interfaces\Wodeyun.Bf.Base.Interfaces.csproj">
+      <Project>{fbb94480-35b6-417a-8f1f-942cd2620e35}</Project>
+      <Name>Wodeyun.Bf.Base.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.Entities\Wodeyun.Gf.Entities.csproj">
+      <Project>{f3d5c470-30b1-46d6-bf4c-644f8679efcf}</Project>
+      <Name>Wodeyun.Gf.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.System\Wodeyun.Gf.System.Utilities\Wodeyun.Gf.System.Utilities.csproj">
+      <Project>{b41b60f4-abe1-441c-b724-3283fe1112b4}</Project>
+      <Name>Wodeyun.Gf.System.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wodeyun.Project.WoodPowerOfReadCard.Dals\Wodeyun.Project.WoodPowerOfReadCard.Dals.csproj">
+      <Project>{4ae7f9e1-d7eb-4e2d-b72c-1f468051b41b}</Project>
+      <Name>Wodeyun.Project.WoodPowerOfReadCard.Dals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wodeyun.Project.WoodPowerOfReadCard.Interfaces\Wodeyun.Project.WoodPowerOfReadCard.Interfaces.csproj">
+      <Project>{def3e221-56b7-4b0e-a9c2-f69cd5b4db15}</Project>
+      <Name>Wodeyun.Project.WoodPowerOfReadCard.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

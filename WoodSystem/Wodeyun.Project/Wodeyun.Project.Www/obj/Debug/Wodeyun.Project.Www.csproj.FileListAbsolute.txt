@@ -1,0 +1,15 @@
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Project.Www.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Project.Www.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Bf.Base.Webs.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Gf.Entities.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Bf.Execute.Wrappers.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Gf.System.Utilities.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Gf.System.Exceptions.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Bf.Base.Webs.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Gf.Entities.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Bf.Execute.Wrappers.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Gf.System.Utilities.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\bin\Wodeyun.Gf.System.Exceptions.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\obj\Debug\Wodeyun.Project.Www.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\obj\Debug\Wodeyun.Project.Www.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.Www\obj\Debug\Wodeyun.Project.Www.csprojResolveAssemblyReference.cache

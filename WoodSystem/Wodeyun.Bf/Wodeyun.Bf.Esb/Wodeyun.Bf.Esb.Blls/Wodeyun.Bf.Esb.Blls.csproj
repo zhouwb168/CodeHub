@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66C8F653-877C-4130-9332-250A7C4A985B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wodeyun.Bf.Esb.Blls</RootNamespace>
+    <AssemblyName>Wodeyun.Bf.Esb.Blls</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceBll.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.Entities\Wodeyun.Gf.Entities.csproj">
+      <Project>{f3d5c470-30b1-46d6-bf4c-644f8679efcf}</Project>
+      <Name>Wodeyun.Gf.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Blls\Wodeyun.Bf.Base.Blls.csproj">
+      <Project>{b89d6f1f-9268-49ce-8727-d2bd05950e95}</Project>
+      <Name>Wodeyun.Bf.Base.Blls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Dals\Wodeyun.Bf.Base.Dals.csproj">
+      <Project>{b4958ad7-9981-49a1-9c99-fe056f306cbf}</Project>
+      <Name>Wodeyun.Bf.Base.Dals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Interfaces\Wodeyun.Bf.Base.Interfaces.csproj">
+      <Project>{fbb94480-35b6-417a-8f1f-942cd2620e35}</Project>
+      <Name>Wodeyun.Bf.Base.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wodeyun.Bf.Esb.Dals\Wodeyun.Bf.Esb.Dals.csproj">
+      <Project>{32d67a4c-5442-4da9-8c43-3a500e8051b8}</Project>
+      <Name>Wodeyun.Bf.Esb.Dals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wodeyun.Bf.Esb.Interfaces\Wodeyun.Bf.Esb.Interfaces.csproj">
+      <Project>{51420aa5-de78-4ad5-aa0e-e919db69516a}</Project>
+      <Name>Wodeyun.Bf.Esb.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,2 @@
+﻿ALTER TABLE [dbo].[Act]
+    ADD CONSTRAINT [PK_Act] PRIMARY KEY CLUSTERED ([Unique] ASC, [Version] ASC)

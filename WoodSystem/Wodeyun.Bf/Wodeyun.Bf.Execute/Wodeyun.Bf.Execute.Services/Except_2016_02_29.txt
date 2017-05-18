@@ -1,0 +1,47 @@
+﻿#############################################################################################
+
+时间：2016/2/29 12:11:53
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2016-02-28，    args[1] = 2016-02-29，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/2/29 12:12:43
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2016-02-29，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+#############################################################################################

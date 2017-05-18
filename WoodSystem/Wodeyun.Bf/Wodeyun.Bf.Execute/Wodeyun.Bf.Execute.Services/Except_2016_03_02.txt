@@ -1,0 +1,320 @@
+﻿#############################################################################################
+
+时间：2016/3/2 14:19:19
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Bf.Verificate.Wrappers.IVerificateInterface.GetEntityByLinkAndUsernameAndPassword(Int32 link, String username, String password)
+
+附加信息：
+Service：Verificate
+Method：GetEntityByLinkAndUsernameAndPassword
+Args:args[0] = 1，    args[1] = zwb，    args[2] = 123，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:27:28
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:27:33
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:28:39
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:28:39
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:29:37
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:41:10
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2016-03-01，    args[1] = 2016-03-02，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:46:53
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:54:41
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:54:41
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:55:40
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:55:44
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 15:57:36
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 16:25:04
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 16:25:04
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 16:26:11
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 16:26:11
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 16:27:18
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 16:27:18
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 17:14:03
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPackBox.Wrappers.IWoodPackBoxInterface.GetEntitiesByStartAndLengthWithOperator(Int32 start, Int32 length, Int32 operatorID)
+
+附加信息：
+Service：WoodPackBox
+Method：GetEntitiesByStartAndLengthWithOperator
+Args:args[0] = 1，    args[1] = 25，    args[2] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 17:29:14
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPackBox.Wrappers.IWoodPackBoxInterface.GetEntitiesByStartAndLengthWithOperator(Int32 start, Int32 length, Int32 operatorID)
+
+附加信息：
+Service：WoodPackBox
+Method：GetEntitiesByStartAndLengthWithOperator
+Args:args[0] = 1，    args[1] = 25，    args[2] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/2 17:31:42
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPackBox.Wrappers.IWoodPackBoxInterface.GetEntitiesByStartAndLengthWithOperator(Int32 start, Int32 length, Int32 operatorID)
+
+附加信息：
+Service：WoodPackBox
+Method：GetEntitiesByStartAndLengthWithOperator
+Args:args[0] = 1，    args[1] = 25，    args[2] = 50，    
+
+#############################################################################################

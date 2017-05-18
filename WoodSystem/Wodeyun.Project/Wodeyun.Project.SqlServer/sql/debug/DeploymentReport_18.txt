@@ -1,0 +1,32 @@
+﻿** 突出显示
+     将重新生成的表
+       无
+     将删除的聚集索引
+       无
+     将创建的聚集索引
+       [dbo].[PK_GsmArea] 在 [dbo].[GsmArea] 上
+       [dbo].[PK_GsmItem] 在 [dbo].[GsmItem] 上
+       [dbo].[PK_GsmMessage] 在 [dbo].[GsmMessage] 上
+       [dbo].[PK_GsmOrigin] 在 [dbo].[GsmOrigin] 上
+       [dbo].[PK_Link] 在 [dbo].[Link] 上
+       [dbo].[PK_Verificate] 在 [dbo].[Verificate] 上
+     可能的数据问题
+       正在删除列 [dbo].[Account].[Role]，可能会出现数据丢失。
+
+** 用户操作
+     改变
+       [dbo].[Account] (表)
+     创建
+       [dbo].[Act] (表)
+       [dbo].[PK_GsmArea] (主键)
+       [dbo].[PK_GsmItem] (主键)
+       [dbo].[GsmItem].[IX_GsmItem] (索引)
+       [dbo].[PK_GsmMessage] (主键)
+       [dbo].[PK_GsmOrigin] (主键)
+       [dbo].[PK_Link] (主键)
+       [dbo].[PK_Verificate] (主键)
+
+** 支持操作
+
+正在删除列 [dbo].[Account].[Role]，可能会出现数据丢失。
+

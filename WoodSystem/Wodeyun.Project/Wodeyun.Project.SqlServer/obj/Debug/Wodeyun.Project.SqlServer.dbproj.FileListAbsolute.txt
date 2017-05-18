@@ -1,0 +1,8 @@
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project_Script.PreDeployment.sql
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project_Script.PostDeployment.sql
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project_Database.sqlsettings
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project_Database.sqldeployment
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project_Database.sqlcmdvars
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project.SqlServer.deploymanifest
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\sql\debug\Wodeyun.Project.SqlServer.dbschema
+D:\Private\Project\Codes\Wodeyun.Project\Wodeyun.Project.SqlServer\obj\Debug\Wodeyun.Project.SqlServer.dbschema

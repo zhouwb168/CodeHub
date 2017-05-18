@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4170B9E-4548-4F68-9AC7-D913CFC16CAE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wodeyun.Project.WoodUnPackBox.Dals</RootNamespace>
+    <AssemblyName>Wodeyun.Project.WoodUnPackBox.Dals</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="WoodUnPackBoxDal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Dals\Wodeyun.Bf.Base.Dals.csproj">
+      <Project>{b4958ad7-9981-49a1-9c99-fe056f306cbf}</Project>
+      <Name>Wodeyun.Bf.Base.Dals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Enums\Wodeyun.Bf.Base.Enums.csproj">
+      <Project>{da14411d-a54e-4537-84a8-7988d32b63f6}</Project>
+      <Name>Wodeyun.Bf.Base.Enums</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.Database\Wodeyun.Gf.Database.Interfaces\Wodeyun.Gf.Database.Interfaces.csproj">
+      <Project>{1c21fc95-1adb-4a9f-a859-a608a7bd0faf}</Project>
+      <Name>Wodeyun.Gf.Database.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.Database\Wodeyun.Gf.Database.SqlServer\Wodeyun.Gf.Database.SqlServer.csproj">
+      <Project>{2cc9e8c0-266f-4ed1-827e-5b6cbbfcbe50}</Project>
+      <Name>Wodeyun.Gf.Database.SqlServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.Entities\Wodeyun.Gf.Entities.csproj">
+      <Project>{f3d5c470-30b1-46d6-bf4c-644f8679efcf}</Project>
+      <Name>Wodeyun.Gf.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Wodeyun.Gf\Wodeyun.Gf.System\Wodeyun.Gf.System.Utilities\Wodeyun.Gf.System.Utilities.csproj">
+      <Project>{b41b60f4-abe1-441c-b724-3283fe1112b4}</Project>
+      <Name>Wodeyun.Gf.System.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

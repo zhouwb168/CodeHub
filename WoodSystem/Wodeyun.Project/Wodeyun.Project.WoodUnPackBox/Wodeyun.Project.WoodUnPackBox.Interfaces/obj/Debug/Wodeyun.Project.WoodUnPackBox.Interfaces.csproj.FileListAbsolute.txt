@@ -1,0 +1,12 @@
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Project.WoodUnPackBox.Interfaces.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Project.WoodUnPackBox.Interfaces.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Bf.Base.Interfaces.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Gf.Entities.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Gf.System.Utilities.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Gf.System.Exceptions.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Bf.Base.Interfaces.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Gf.Entities.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Gf.System.Utilities.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\bin\Debug\Wodeyun.Gf.System.Exceptions.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\obj\Debug\Wodeyun.Project.WoodUnPackBox.Interfaces.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodUnPackBox\Wodeyun.Project.WoodUnPackBox.Interfaces\obj\Debug\Wodeyun.Project.WoodUnPackBox.Interfaces.pdb

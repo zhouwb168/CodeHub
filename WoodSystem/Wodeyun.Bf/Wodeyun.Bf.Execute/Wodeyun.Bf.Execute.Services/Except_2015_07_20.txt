@@ -1,0 +1,18 @@
+﻿#############################################################################################
+
+时间：2015/7/20 16:23:28
+Message：未能找到文件“D:\work\objects\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodJoin\Wodeyun.Project.WoodJoin.Wrappers\bin\Debug\Wodeyun.Project.WoodJoin.Wrappers.dll”。
+StackTrace：   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   在 Wodeyun.Bf.Execute.Executor.ServiceHelper.LoadAssembly() 位置 d:\work\objects\WoodSystem\Wodeyun.Bf\Wodeyun.Bf.Execute\Wodeyun.Bf.Execute.Executor\Helper.cs:行号 38
+   在 Wodeyun.Bf.Execute.Executor.ServiceHelper..ctor(String filename, String url, String contract) 位置 d:\work\objects\WoodSystem\Wodeyun.Bf\Wodeyun.Bf.Execute\Wodeyun.Bf.Execute.Executor\Helper.cs:行号 24
+   在 Wodeyun.Bf.Execute.Executor.Executor.GetResult(String service, String method, Object[] args) 位置 d:\work\objects\WoodSystem\Wodeyun.Bf\Wodeyun.Bf.Execute\Wodeyun.Bf.Execute.Executor\Executor.cs:行号 54
+
+附加信息：
+Service：WoodJoin
+Method：GetDataOfBangByDateAndStartAndLength
+Args:args[0] = 2015-06-20，    args[1] = 1，    args[2] = 4，    args[3] = 0，    
+
+#############################################################################################

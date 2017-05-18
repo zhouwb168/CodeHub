@@ -1,0 +1,45 @@
+﻿** 突出显示
+     将重新生成的表
+       [dbo].[FullPound]
+     将删除的聚集索引
+       无
+     将创建的聚集索引
+       无
+     可能的数据问题
+       正在删除列 [dbo].[EmptyPound].[LFDate]，可能会出现数据丢失。
+       正在删除列 [dbo].[EmptyPound].[LFUnique]，可能会出现数据丢失。
+       正在删除列 [dbo].[FullPound].[LFDate]，可能会出现数据丢失。
+       正在删除列 [dbo].[FullPound].[LFUnique]，可能会出现数据丢失。
+       正在删除列 [dbo].[FullPound].[Printed]，可能会出现数据丢失。
+       正在删除列 [dbo].[GsmItem].[IsAdd]，可能会出现数据丢失。
+       正在删除列 [dbo].[GsmSupplier].[LinkMan]，可能会出现数据丢失。
+       正在删除列 [dbo].[GsmSupplier].[LinkPhone]，可能会出现数据丢失。
+       正在删除列 [dbo].[WoodLaboratory].[RebateGreater]，可能会出现数据丢失。
+
+** 用户操作
+     删除
+       [dbo].[DF_FullPound_Printed] (默认约束)
+       [dbo].[DF_GsmItem_IsAdd] (默认约束)
+       针对 [dbo].[WoodLaboratory].[RebateGreater] (默认约束)
+     改变
+       [dbo].[EmptyPound] (表)
+       [dbo].[GsmItem] (表)
+       [dbo].[GsmSupplier] (表)
+       [dbo].[WoodLaboratory] (表)
+     表重新生成
+       [dbo].[FullPound] (表)
+
+** 支持操作
+
+正在删除列 [dbo].[EmptyPound].[LFDate]，可能会出现数据丢失。
+正在删除列 [dbo].[EmptyPound].[LFUnique]，可能会出现数据丢失。
+正在删除列 [dbo].[FullPound].[LFDate]，可能会出现数据丢失。
+正在删除列 [dbo].[FullPound].[LFUnique]，可能会出现数据丢失。
+正在删除列 [dbo].[FullPound].[Printed]，可能会出现数据丢失。
+正在删除列 [dbo].[GsmItem].[IsAdd]，可能会出现数据丢失。
+正在删除列 [dbo].[GsmSupplier].[LinkMan]，可能会出现数据丢失。
+正在删除列 [dbo].[GsmSupplier].[LinkPhone]，可能会出现数据丢失。
+正在删除列 [dbo].[WoodLaboratory].[RebateGreater]，可能会出现数据丢失。
+如果执行此部署，则对 [dbo].[EmptyPound] 的更改可能在 [dbo].[To_Str1] 中导致运行时错误。
+如果执行此部署，则对 [dbo].[FullPound] 的更改可能在 [dbo].[To_Str1] 中导致运行时错误。
+

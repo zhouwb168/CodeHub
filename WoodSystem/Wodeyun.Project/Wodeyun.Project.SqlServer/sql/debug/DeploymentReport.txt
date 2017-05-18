@@ -1,0 +1,21 @@
+﻿** 突出显示
+     将重新生成的表
+       无
+     将删除的聚集索引
+       无
+     将创建的聚集索引
+       无
+     可能的数据问题
+       无
+
+** 用户操作
+     创建
+       [dbo].[Account] (表)
+       [dbo].[Account].[IX_Account] (索引)
+       [dbo].[Token] (表)
+       [dbo].[Token].[IX_Token] (索引)
+       [dbo].[Unique] (表)
+       [dbo].[Verificate] (表)
+       [dbo].[Verificate].[IX_Verificate] (索引)
+
+** 支持操作

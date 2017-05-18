@@ -1,0 +1,591 @@
+﻿#############################################################################################
+
+时间：2016/3/3 9:14:10
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 9:49:38
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2016-02-26，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 9:49:52
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2015-01-01，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 9:49:56
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2015-01-01，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 9:50:09
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2015-01-02，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:10:53
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodDataList.Wrappers.IWoodDataListInterface.GetReport04BySearchWithPaging(String startDate, String endDate, Int32 start, Int32 length, String supplier, String license, String key)
+
+附加信息：
+Service：WoodDataList
+Method：GetReport04BySearchWithPaging
+Args:args[0] = 2016-03-03，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:11:05
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodDataList.Wrappers.IWoodDataListInterface.GetReport04BySearchWithPaging(String startDate, String endDate, Int32 start, Int32 length, String supplier, String license, String key)
+
+附加信息：
+Service：WoodDataList
+Method：GetReport04BySearchWithPaging
+Args:args[0] = 2015-01-01，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:11:09
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodDataList.Wrappers.IWoodDataListInterface.GetReport04BySearchWithPaging(String startDate, String endDate, Int32 start, Int32 length, String supplier, String license, String key)
+
+附加信息：
+Service：WoodDataList
+Method：GetReport04BySearchWithPaging
+Args:args[0] = 2015-01-01，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:13:09
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2016-03-02，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:13:24
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2015-01-01，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:15:29
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2016-03-02，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:17:38
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2015-01-01，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 10:17:42
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPrice.Wrappers.IWoodPriceInterface.getPriceDataList(String startDate, String endDate, Int32 start, Int32 length, String area, String tree, String IsCreate, String Supplier)
+
+附加信息：
+Service：WoodPrice
+Method：getPriceDataList
+Args:args[0] = 2015-01-01，    args[1] = 2016-03-03，    args[2] = 1，    args[3] = 15，    args[4] = ，    args[5] = ，    args[6] = ，    args[7] = ，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 11:20:20
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.GsmReport.Wrappers.IGsmReportInterface.GetGridByMethodAndFieldsAndUnique(String method, Object[] args, Object[] fields, String unique)
+
+附加信息：
+Service：GsmReport
+Method：GetGridByMethodAndFieldsAndUnique
+Args:args[0] = GetReport03ByMonthAndSupplierAndStartAndLength，    args[1] = System.Object[]，    args[2] = System.Object[]，    args[3] = Number，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 11:20:27
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.GsmReport.Wrappers.IGsmReportInterface.GetGridByMethodAndFieldsAndUnique(String method, Object[] args, Object[] fields, String unique)
+
+附加信息：
+Service：GsmReport
+Method：GetGridByMethodAndFieldsAndUnique
+Args:args[0] = GetReport03ByMonthAndSupplierAndStartAndLength，    args[1] = System.Object[]，    args[2] = System.Object[]，    args[3] = Number，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 11:27:31
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.GsmReport.Wrappers.IGsmReportInterface.GetGridByMethodAndFieldsAndUnique(String method, Object[] args, Object[] fields, String unique)
+
+附加信息：
+Service：GsmReport
+Method：GetGridByMethodAndFieldsAndUnique
+Args:args[0] = GetReport03ByMonthAndSupplierAndStartAndLength，    args[1] = System.Object[]，    args[2] = System.Object[]，    args[3] = Number，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 11:27:38
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.GsmReport.Wrappers.IGsmReportInterface.GetGridByMethodAndFieldsAndUnique(String method, Object[] args, Object[] fields, String unique)
+
+附加信息：
+Service：GsmReport
+Method：GetGridByMethodAndFieldsAndUnique
+Args:args[0] = GetReport03ByMonthAndSupplierAndStartAndLength，    args[1] = System.Object[]，    args[2] = System.Object[]，    args[3] = Number，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 14:20:32
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.GsmReport.Wrappers.IGsmReportInterface.GetGridByMethodAndFieldsAndUnique(String method, Object[] args, Object[] fields, String unique)
+
+附加信息：
+Service：GsmReport
+Method：GetGridByMethodAndFieldsAndUnique
+Args:args[0] = GetReport03ByMonthAndSupplierAndStartAndLength，    args[1] = System.Object[]，    args[2] = System.Object[]，    args[3] = Number，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 14:20:40
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.GsmReport.Wrappers.IGsmReportInterface.GetGridByMethodAndFieldsAndUnique(String method, Object[] args, Object[] fields, String unique)
+
+附加信息：
+Service：GsmReport
+Method：GetGridByMethodAndFieldsAndUnique
+Args:args[0] = GetReport03ByMonthAndSupplierAndStartAndLength，    args[1] = System.Object[]，    args[2] = System.Object[]，    args[3] = Number，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 14:38:27
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 14:38:27
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 15:08:15
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16016
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfGps
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 15:08:15
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 15:45:45
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPackBox.Wrappers.IWoodPackBoxInterface.GetEntitiesByStartAndLengthWithOperator(Int32 start, Int32 length, Int32 operatorID)
+
+附加信息：
+Service：WoodPackBox
+Method：GetEntitiesByStartAndLengthWithOperator
+Args:args[0] = 1，    args[1] = 25，    args[2] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 15:51:00
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodPackBox.Wrappers.IWoodPackBoxInterface.GetEntitiesByStartAndLengthWithOperator(Int32 start, Int32 length, Int32 operatorID)
+
+附加信息：
+Service：WoodPackBox
+Method：GetEntitiesByStartAndLengthWithOperator
+Args:args[0] = 1，    args[1] = 25，    args[2] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 16:01:59
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 16:02:23
+Message：由于目标计算机积极拒绝，无法连接。 127.0.0.1:16014
+StackTrace：   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+附加信息：
+Service：WoodPowerOfReadCard
+Method：GetEntityByAccount
+Args:args[0] = 50，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 16:13:48
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2016-02-26，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+##########################################################################################################################################################################################
+
+时间：2016/3/3 16:16:51
+Message：Internal Server Error
+StackTrace：
+Server stack trace: 
+   在 System.ServiceModel.Dispatcher.WebFaultClientMessageInspector.AfterReceiveReply(Message& reply, Object correlationState)
+   在 System.ServiceModel.Dispatcher.ImmutableClientRuntime.AfterReceiveReply(ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   在 System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   在 System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 Wodeyun.Project.WoodLaboratoryConfirme.Wrappers.IWoodLaboratoryConfirmeInterface.GetEntitiesBySearchWithPaging(String date, Int32 start, Int32 length, String key, String number, Int32 confirme)
+
+附加信息：
+Service：WoodLaboratoryConfirme
+Method：GetEntitiesBySearchWithPaging
+Args:args[0] = 2015-01-01，    args[1] = 1，    args[2] = 5，    args[3] = ，    args[4] = ，    args[5] = -1，    
+
+#############################################################################################

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B43F88FF-0D31-432B-9FE9-3D993D662C20}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wodeyun.Project.WoodPrice.Blls</RootNamespace>
+    <AssemblyName>Wodeyun.Project.WoodPrice.Blls</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Wodeyun.Bf.Base.Blls">
+      <HintPath>..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Blls\bin\Debug\Wodeyun.Bf.Base.Blls.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Bf.Base.Dals">
+      <HintPath>..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Dals\bin\Debug\Wodeyun.Bf.Base.Dals.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Bf.Base.Interfaces">
+      <HintPath>..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Interfaces\bin\Debug\Wodeyun.Bf.Base.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Gf.Entities">
+      <HintPath>..\..\..\Wodeyun.Gf\Wodeyun.Gf.Entities\bin\Debug\Wodeyun.Gf.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Gf.System.Exceptions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Wodeyun.Bf\Wodeyun.Bf.Base\Wodeyun.Bf.Base.Webs\bin\Debug\Wodeyun.Gf.System.Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Gf.System.Utilities">
+      <HintPath>..\..\..\Wodeyun.Gf\Wodeyun.Gf.System\Wodeyun.Gf.System.Utilities\bin\Debug\Wodeyun.Gf.System.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Project.WoodPrice.Dals">
+      <HintPath>..\Wodeyun.Project.WoodPrice.Dals\bin\Debug\Wodeyun.Project.WoodPrice.Dals.dll</HintPath>
+    </Reference>
+    <Reference Include="Wodeyun.Project.WoodPrice.Interfaces">
+      <HintPath>..\Wodeyun.Project.WoodPrice.Interfaces\bin\Debug\Wodeyun.Project.WoodPrice.Interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="WoodPriceBll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

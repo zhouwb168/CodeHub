@@ -1,0 +1,10 @@
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Project.WoodPrice.Wrappers.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Project.WoodPrice.Wrappers.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Gf.Entities.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Gf.System.Utilities.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Gf.System.Exceptions.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Gf.Entities.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Gf.System.Utilities.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\bin\Debug\Wodeyun.Gf.System.Exceptions.pdb
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\obj\Debug\Wodeyun.Project.WoodPrice.Wrappers.dll
+E:\work\WoodSystem\Wodeyun.Project\Wodeyun.Project.WoodPrice\Wodeyun.Project.WoodPrice.Wrappers\obj\Debug\Wodeyun.Project.WoodPrice.Wrappers.pdb

@@ -1,0 +1,48 @@
+/* 最深：#333399
+   二级：#6161B8
+   三级：#9999FF
+   四级：#CCCCFF
+   醒目：#FE6A14
+*/
+
+BODY {
+	margin:0px;
+	font-size:12px;
+	font-family:"宋体";
+}
+TD {
+  font-size:12px;
+	font-family:"宋体";
+}
+P {
+    margin-top:8px;
+    margin-bottom:8px;
+}
+A:visited { color:#333399; text-decoration: none; }
+A:active { color:#333399; text-decoration:none; }
+A:link { color:#333399; text-decoration: none; }
+A:hover { color:#6161B8; text-decoration:underline; }
+
+.White:visited { color:#CCCCFF; text-decoration: none; }
+.White:active { color:#CCCCFF; text-decoration:none; }
+.White:link { color:#CCCCFF; text-decoration: none; }
+.White:hover { color:#9999FF; text-decoration:underline; }
+
+.Button {
+    cursor:pointer;
+}
+
+.Td {
+  padding:3px 6px 3px 6px;
+}
+.Td-Combo {
+  padding:3px 3px 3px 6px;
+}
+
+.Activated {
+    background-color:#9999FF;
+    font-weight:bold;
+}
+.Unactivated {
+    background-color:#CCCCFF;
+}

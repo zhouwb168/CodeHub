@@ -1,0 +1,2 @@
+﻿ALTER TABLE [dbo].[Role]
+    ADD CONSTRAINT [PK_Role] PRIMARY KEY CLUSTERED ([Unique] ASC, [Version] ASC)
