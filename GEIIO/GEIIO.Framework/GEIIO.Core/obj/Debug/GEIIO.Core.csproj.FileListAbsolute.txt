@@ -1,0 +1,5 @@
+E:\work\GEIIO\Bin\GEIIO.Core.dll
+E:\work\GEIIO\Bin\GEIIO.Core.pdb
+E:\work\GEIIO\GEIIO.Framework\GEIIO.Core\obj\Debug\GEIIO.Core.dll
+E:\work\GEIIO\GEIIO.Framework\GEIIO.Core\obj\Debug\GEIIO.Core.pdb
+E:\work\GEIIO\GEIIO.Framework\GEIIO.Core\obj\Debug\GEIIO.Core.csprojResolveAssemblyReference.cache

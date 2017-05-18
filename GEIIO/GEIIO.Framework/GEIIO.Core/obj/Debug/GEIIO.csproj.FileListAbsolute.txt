@@ -1,0 +1,4 @@
+E:\work\GEIIO\bin\GEIIO.dll
+E:\work\GEIIO\bin\GEIIO.pdb
+E:\work\GEIIO\GEIIO\GEIIO\obj\Debug\GEIIO.dll
+E:\work\GEIIO\GEIIO\GEIIO\obj\Debug\GEIIO.pdb
