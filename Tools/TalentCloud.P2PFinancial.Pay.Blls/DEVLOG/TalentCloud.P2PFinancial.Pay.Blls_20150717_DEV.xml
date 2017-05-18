@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150717 11:42:50">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100395","UsrCustId":"6000060043021550","OrdId":"20150717102515828068","OrdDate":"20150717","TransAmt":"100.00","FeeAmt":"0.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150717 11:42:50">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100395","UsrCustId":"6000060043021550","OrdId":"20150717102515828068","OrdDate":"20150717","TransAmt":"100.00","FeeAmt":"0.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

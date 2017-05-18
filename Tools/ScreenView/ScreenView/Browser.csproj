@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9EA8AE97-2184-469B-9042-319B4892A9D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Browser</RootNamespace>
+    <AssemblyName>Browser</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CefSharp, Version=1.25.0.25466, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Cef\CefSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.WinForms, Version=1.25.0.25471, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Cef\CefSharp.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainBrowser.Designer.cs">
+      <DependentUpon>MainBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainBrowser.resx">
+      <DependentUpon>MainBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Cef\locales\am.pak" />
+    <None Include="Cef\locales\ar.pak" />
+    <None Include="Cef\locales\bg.pak" />
+    <None Include="Cef\locales\bn.pak" />
+    <None Include="Cef\locales\ca.pak" />
+    <None Include="Cef\locales\cs.pak" />
+    <None Include="Cef\locales\da.pak" />
+    <None Include="Cef\locales\de.pak" />
+    <None Include="Cef\locales\el.pak" />
+    <None Include="Cef\locales\en-GB.pak" />
+    <None Include="Cef\locales\en-US.pak" />
+    <None Include="Cef\locales\es-419.pak" />
+    <None Include="Cef\locales\es.pak" />
+    <None Include="Cef\locales\et.pak" />
+    <None Include="Cef\locales\fa.pak" />
+    <None Include="Cef\locales\fi.pak" />
+    <None Include="Cef\locales\fil.pak" />
+    <None Include="Cef\locales\fr.pak" />
+    <None Include="Cef\locales\gu.pak" />
+    <None Include="Cef\locales\he.pak" />
+    <None Include="Cef\locales\hi.pak" />
+    <None Include="Cef\locales\hr.pak" />
+    <None Include="Cef\locales\hu.pak" />
+    <None Include="Cef\locales\id.pak" />
+    <None Include="Cef\locales\it.pak" />
+    <None Include="Cef\locales\ja.pak" />
+    <None Include="Cef\locales\kn.pak" />
+    <None Include="Cef\locales\ko.pak" />
+    <None Include="Cef\locales\lt.pak" />
+    <None Include="Cef\locales\lv.pak" />
+    <None Include="Cef\locales\ml.pak" />
+    <None Include="Cef\locales\mr.pak" />
+    <None Include="Cef\locales\ms.pak" />
+    <None Include="Cef\locales\nb.pak" />
+    <None Include="Cef\locales\nl.pak" />
+    <None Include="Cef\locales\pl.pak" />
+    <None Include="Cef\locales\pt-BR.pak" />
+    <None Include="Cef\locales\pt-PT.pak" />
+    <None Include="Cef\locales\ro.pak" />
+    <None Include="Cef\locales\ru.pak" />
+    <None Include="Cef\locales\sk.pak" />
+    <None Include="Cef\locales\sl.pak" />
+    <None Include="Cef\locales\sr.pak" />
+    <None Include="Cef\locales\sv.pak" />
+    <None Include="Cef\locales\sw.pak" />
+    <None Include="Cef\locales\ta.pak" />
+    <None Include="Cef\locales\te.pak" />
+    <None Include="Cef\locales\th.pak" />
+    <None Include="Cef\locales\tr.pak" />
+    <None Include="Cef\locales\uk.pak" />
+    <None Include="Cef\locales\vi.pak" />
+    <None Include="Cef\locales\zh-CN.pak" />
+    <None Include="Cef\locales\zh-TW.pak" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cef\CefSharp.dll" />
+    <Content Include="Cef\CefSharp.WinForms.dll" />
+    <Content Include="Cef\icudt.dll" />
+    <Content Include="Cef\libcef.dll" />
+    <Content Include="Cef\用法.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

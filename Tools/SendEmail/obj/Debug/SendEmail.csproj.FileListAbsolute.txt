@@ -1,0 +1,98 @@
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.ImportAdd.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.SmtpSet.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.MailTypes.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\SendEmail\obj\Debug\SendEmail.SetEmailList.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+D:\工作文件夹\Source Program\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+D:\工作文件夹\Source Program\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.Form1.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.ImportAdd.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.MailTypes.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.SetEmailList.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.SmtpSet.resources
+D:\工作文件夹\Source Program\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.exe
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.pdb
+C:\Documents and Settings\Administrator\桌面\SendEmail\bin\Debug\SendEmail.exe
+C:\Documents and Settings\Administrator\桌面\SendEmail\bin\Debug\SendEmail.pdb
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.ImportAdd.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.MailTypes.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.SetEmailList.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.SmtpSet.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.AddEmail.resources
+C:\Documents and Settings\Administrator\桌面\SendEmail\bin\Debug\SendEmail.exe.manifest
+C:\Documents and Settings\Administrator\桌面\SendEmail\bin\Debug\SendEmail.application
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.exe.manifest
+C:\Documents and Settings\Administrator\桌面\SendEmail\obj\Debug\SendEmail.application
+D:\SendEmail\bin\Debug\SendEmail.exe.config
+D:\SendEmail\obj\Debug\SendEmail.exe
+D:\SendEmail\obj\Debug\SendEmail.pdb
+D:\SendEmail\bin\Debug\SendEmail.exe.manifest
+D:\SendEmail\bin\Debug\SendEmail.application
+D:\SendEmail\bin\Debug\SendEmail.exe
+D:\SendEmail\bin\Debug\SendEmail.pdb
+D:\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+D:\SendEmail\obj\Debug\SendEmail.AddEmail.resources
+D:\SendEmail\obj\Debug\SendEmail.ImportAdd.resources
+D:\SendEmail\obj\Debug\SendEmail.MailTypes.resources
+D:\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+D:\SendEmail\obj\Debug\SendEmail.SetEmailList.resources
+D:\SendEmail\obj\Debug\SendEmail.SmtpSet.resources
+D:\SendEmail\obj\Debug\GenerateResource.read.1.tlog
+D:\SendEmail\obj\Debug\GenerateResource.write.1.tlog
+D:\SendEmail\obj\Debug\SendEmail.exe.manifest
+D:\SendEmail\obj\Debug\SendEmail.application
+D:\SendEmail\obj\Debug\SendEmail.frmMain.resources
+F:\网站目录\软件项目\SendEmail\bin\Debug\SendEmail.exe.config
+F:\网站目录\软件项目\SendEmail\bin\Debug\SendEmail.exe.manifest
+F:\网站目录\软件项目\SendEmail\bin\Debug\SendEmail.application
+F:\网站目录\软件项目\SendEmail\bin\Debug\SendEmail.exe
+F:\网站目录\软件项目\SendEmail\bin\Debug\SendEmail.pdb
+F:\网站目录\软件项目\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.AddEmail.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.frmMain.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.ImportAdd.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.MailTypes.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.SetEmailList.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.SmtpSet.resources
+F:\网站目录\软件项目\SendEmail\obj\Debug\GenerateResource.read.1.tlog
+F:\网站目录\软件项目\SendEmail\obj\Debug\GenerateResource.write.1.tlog
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.exe.manifest
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.application
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.exe
+F:\网站目录\软件项目\SendEmail\obj\Debug\SendEmail.pdb
+E:\work\Tools\SendEmail\bin\Debug\SendEmail.exe.config
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.exe
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.pdb
+E:\work\Tools\SendEmail\bin\Debug\SendEmail.exe.manifest
+E:\work\Tools\SendEmail\bin\Debug\SendEmail.application
+E:\work\Tools\SendEmail\bin\Debug\SendEmail.exe
+E:\work\Tools\SendEmail\bin\Debug\SendEmail.pdb
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.AddEmail.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.frmMain.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.ImportAdd.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.MailTypes.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.SetEmailList.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.SmtpSet.resources
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.exe.manifest
+E:\work\Tools\SendEmail\obj\Debug\SendEmail.application

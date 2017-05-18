@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150903 21:34:29">
+    <USERNAME>100411</USERNAME>
+    <LOGINFO>{"UserID":"100411","CardID":"175","OrdId":"20150903213252825665","UsrCustId":"6000060043252998","TransAmt":"2800.00","RealTransAmt":"2800.00","FeeAmt":"6.20","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"5.60","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

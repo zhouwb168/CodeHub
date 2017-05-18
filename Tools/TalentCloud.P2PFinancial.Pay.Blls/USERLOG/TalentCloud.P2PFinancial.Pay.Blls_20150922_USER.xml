@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="USER">
+  <DATETIME VALUE="20150922 11:26:35">
+    <USERNAME>100590</USERNAME>
+    <LOGINFO>{"UserID":"100590","CardID":"196","OrdId":"20150922112617130715","UsrCustId":"6000060050256935","TransAmt":"2030.00","RealTransAmt":"2026.95","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"3.05","ServFeeAcctId":"MDT000001"}</LOGINFO>
+  </DATETIME>
+</LOG>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20151119 10:17:03">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101502","UsrCustId":"6000060069380015","OrdId":"20151119101622385212","OrdDate":"20151119","TransAmt":"300000.00","FeeAmt":"450.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151119 10:17:37">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101502","UsrCustId":"6000060069380015","OrdId":"20151119101622385212","OrdDate":"20151119","TransAmt":"300000.00","FeeAmt":"450.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151119 15:18:59">
+    <USERNAME>陈彦文</USERNAME>
+    <LOGINFO>{"UserID":"101530","NickName":"陈彦文","MobilePhone":"13807711391","Email":"cyw4418@163.com","CardNo":"450204196911151094","CustId":"6000060071068939"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151119 16:22:58">
+    <USERNAME>100882</USERNAME>
+    <LOGINFO>{"UserID":"100882","CardID":"725","OrdId":"20151119162250932188","UsrCustId":"6000060062810243","TransAmt":"300.00","RealTransAmt":"298.00","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"2.00","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151119 19:02:52">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101475","OpenAcctId":"6222022105010582174","OpenBankId":"ICBC","UsrCustId":"6000060068509674"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

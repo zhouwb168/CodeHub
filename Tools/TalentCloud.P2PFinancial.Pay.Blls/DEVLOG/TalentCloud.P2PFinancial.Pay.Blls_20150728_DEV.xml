@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150728 10:03:15">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100397","UsrCustId":"6000060043107432","OrdId":"20150728095326409097","OrdDate":"20150728","TransAmt":"9970.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150728 12:09:58">
+    <USERNAME>曹迎</USERNAME>
+    <LOGINFO>{"UserID":"100550","NickName":"%E6%9B%B9%E8%BF%8E","MobilePhone":"13877528928","Email":"297145669%40qq.com","CardNo":"452501197209280228","CustId":"6000060048848382"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150728 13:48:10">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100393","UsrCustId":"6000060043260621","OrdId":"20150728134322530528","OrdDate":"20150728","TransAmt":"15000.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

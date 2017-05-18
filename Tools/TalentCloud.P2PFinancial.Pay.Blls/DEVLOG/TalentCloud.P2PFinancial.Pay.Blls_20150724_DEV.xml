@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150724 10:21:06">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100545","CompanyName":"广西德弘投资有限公司","CustId":"6000060048193720","OpenBankId":"CMB","CardId":"771900643210860"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdateCompanyInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150724 10:25:29">
+    <USERNAME>100392</USERNAME>
+    <LOGINFO>{"UserID":"100392","CardID":"58","OrdId":"20150724102401100284","UsrCustId":"6000060043113112","TransAmt":"5000.00","RealTransAmt":"5000.00","FeeAmt":"9.50","FeeCustId":"6000060043113112","FeeAcctId":"MDT000001","ServFee":"","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

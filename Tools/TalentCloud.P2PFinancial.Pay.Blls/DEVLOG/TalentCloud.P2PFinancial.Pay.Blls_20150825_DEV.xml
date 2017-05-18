@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150825 15:58:47">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100637","CompanyName":"广西互生机械设备有限公司","CustId":"6000060052709603","OpenBankId":"HXB","CardId":"13052000000040788"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdateCompanyInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

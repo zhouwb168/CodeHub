@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150923 13:26:54">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100676","CompanyName":"广西一棵树装饰工程有限责任公司","CustId":"6000060057950261","OpenBankId":"BOCOM","CardId":"451060308018010024073"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdateCompanyInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150923 16:29:13">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100677","CompanyName":"广西亚欧瓷业有限公司","CustId":"6000060058002800","OpenBankId":"BOC","CardId":"617167287213"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdateCompanyInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

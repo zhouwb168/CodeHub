@@ -1,0 +1,1762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20151124 08:46:35">
+    <USERNAME>周新宇</USERNAME>
+    <LOGINFO>{"UserID":"101561","NickName":"周新宇","MobilePhone":"13878105191","Email":"236678919@qq.com","CardNo":"452523197511200039","CustId":"6000060072134517"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 08:49:57">
+    <USERNAME>黄雪连</USERNAME>
+    <LOGINFO>{"UserID":"101562","NickName":"黄雪连","MobilePhone":"13557572869","Email":"huangxuelian88@126.com","CardNo":"450121198609036642","CustId":"6000060072134811"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 08:54:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","OpenAcctId":"6227003377230024939","OpenBankId":"CCB","UsrCustId":"6000060072134811"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 08:56:32">
+    <USERNAME>100582</USERNAME>
+    <LOGINFO>{"UserID":"100582","CardID":"787","OrdId":"20151124085555831298","UsrCustId":"6000060050122624","TransAmt":"1000.00","RealTransAmt":"1000.00","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"2.00","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 08:58:43">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","UsrCustId":"6000060072134811","OrdId":"20151124085715650981","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 08:58:44">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","UsrCustId":"6000060072134811","OrdId":"20151124085715650981","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 09:08:55">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124090702549997","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"125.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 09:09:15">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124090702549997","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"125.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 09:15:54">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100703","UsrCustId":"6000060059843543","OrdId":"20151124091532473082","OrdDate":"20151124","TransAmt":"18000.00","FeeAmt":"27.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 09:15:54">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100703","UsrCustId":"6000060059843543","OrdId":"20151124091532473082","OrdDate":"20151124","TransAmt":"18000.00","FeeAmt":"27.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 10:44:43">
+    <USERNAME>100931</USERNAME>
+    <LOGINFO>{"UserID":"100931","CardID":"678","OrdId":"20151124104407949973","UsrCustId":"6000060063569271","TransAmt":"10090.00","RealTransAmt":"10069.82","FeeAmt":"7.05","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"20.18","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 11:29:18">
+    <USERNAME>黄燕冬</USERNAME>
+    <LOGINFO>{"UserID":"101564","NickName":"黄燕冬","MobilePhone":"13877109996","Email":"1817760547@qq.com","CardNo":"450111198110311526","CustId":"6000060072178630"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 11:41:16">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101564","OpenAcctId":"6226225501921132","OpenBankId":"CMBC","UsrCustId":"6000060072178630"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:12:29">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101485","UsrCustId":"6000060069172927","OrdId":"20151124121207152363","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:12:29">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101485","UsrCustId":"6000060069172927","OrdId":"20151124121207152363","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:13:00">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101485","UsrCustId":"6000060069172927","OrdId":"20151124121246577656","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:13:01">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101485","UsrCustId":"6000060069172927","OrdId":"20151124121246577656","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:28:16">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101371","UsrCustId":"6000060067244998","OrdId":"20151124122726534103","OrdDate":"20151124","TransAmt":"300.00","FeeAmt":"0.45","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:28:16">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101371","UsrCustId":"6000060067244998","OrdId":"20151124122726534103","OrdDate":"20151124","TransAmt":"300.00","FeeAmt":"0.45","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:30:12">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100611","UsrCustId":"6000060053018288","OrdId":"20151124122903050971","OrdDate":"20151124","TransAmt":"97000.00","FeeAmt":"145.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:30:14">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100611","UsrCustId":"6000060053018288","OrdId":"20151124122903050971","OrdDate":"20151124","TransAmt":"97000.00","FeeAmt":"145.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:32:24">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100878","UsrCustId":"6000060062773435","OrdId":"20151124123005879126","OrdDate":"20151124","TransAmt":"200099.00","FeeAmt":"300.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:32:30">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100878","UsrCustId":"6000060062773435","OrdId":"20151124123005879126","OrdDate":"20151124","TransAmt":"200099.00","FeeAmt":"300.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:34:13">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","UsrCustId":"6000060072134811","OrdId":"20151124123344696997","OrdDate":"20151124","TransAmt":"9000.00","FeeAmt":"13.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:34:13">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","UsrCustId":"6000060072134811","OrdId":"20151124123344696997","OrdDate":"20151124","TransAmt":"9000.00","FeeAmt":"13.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:37:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","UsrCustId":"6000060072134811","OrdId":"20151124123654550377","OrdDate":"20151124","TransAmt":"40900.00","FeeAmt":"61.35","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:37:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101562","UsrCustId":"6000060072134811","OrdId":"20151124123654550377","OrdDate":"20151124","TransAmt":"40900.00","FeeAmt":"61.35","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:44:54">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100503","UsrCustId":"6000060043823346","OrdId":"20151124124317927445","OrdDate":"20151124","TransAmt":"6550.00","FeeAmt":"9.83","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:44:58">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100503","UsrCustId":"6000060043823346","OrdId":"20151124124317927445","OrdDate":"20151124","TransAmt":"6550.00","FeeAmt":"9.83","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:47:36">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100703","UsrCustId":"6000060059843543","OrdId":"20151124124723222427","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"15.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 12:47:36">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100703","UsrCustId":"6000060059843543","OrdId":"20151124124723222427","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"15.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 13:08:35">
+    <USERNAME>101532</USERNAME>
+    <LOGINFO>{"UserID":"101532","CardID":"780","OrdId":"20151124130811635549","UsrCustId":"6000060072039176","TransAmt":"2962200.00","RealTransAmt":"2962198.00","FeeAmt":"2.00","FeeCustId":"6000060072039176","FeeAcctId":"MDT000001","ServFee":"","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 13:15:44">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100710","UsrCustId":"6000060060269528","OrdId":"20151124131447107281","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"25.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 13:34:25">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101506","OpenAcctId":"6212262102002343624","OpenBankId":"ICBC","UsrCustId":"6000060069663335"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 13:36:25">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101506","OpenAcctId":"6212262102002343624","OpenBankId":"ICBC","UsrCustId":"6000060069663335"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:00:11">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101378","UsrCustId":"6000060067246433","OrdId":"20151124135950781211","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:00:11">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101378","UsrCustId":"6000060067246433","OrdId":"20151124135950781211","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:03:05">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101378","UsrCustId":"6000060067246433","OrdId":"20151124140242578248","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:03:05">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101378","UsrCustId":"6000060067246433","OrdId":"20151124140242578248","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:12:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101552","UsrCustId":"6000060071770297","OrdId":"20151124140936450402","OrdDate":"20151124","TransAmt":"1000000.00","FeeAmt":"2500.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:12:26">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101552","UsrCustId":"6000060071770297","OrdId":"20151124140936450402","OrdDate":"20151124","TransAmt":"1000000.00","FeeAmt":"2500.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:19:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101378","UsrCustId":"6000060067246433","OrdId":"20151124141846066576","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:19:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101378","UsrCustId":"6000060067246433","OrdId":"20151124141846066576","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:32:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100713","UsrCustId":"6000060060493447","OrdId":"20151124143140788314","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:32:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100713","UsrCustId":"6000060060493447","OrdId":"20151124143140788314","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:34:46">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100453","UsrCustId":"6000060043369630","OrdId":"20151124142809062320","OrdDate":"20151124","TransAmt":"3800.00","FeeAmt":"9.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:34:52">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100453","UsrCustId":"6000060043369630","OrdId":"20151124142809062320","OrdDate":"20151124","TransAmt":"3800.00","FeeAmt":"9.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:39:07">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100549","UsrCustId":"6000060049875527","OrdId":"20151124143310577630","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:39:07">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100549","UsrCustId":"6000060049875527","OrdId":"20151124143310577630","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:39:08">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100549","UsrCustId":"6000060049875527","OrdId":"20151124143310577630","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:50:54">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100797","UsrCustId":"6000060061640134","OrdId":"20151124145014012745","OrdDate":"20151124","TransAmt":"9800.00","FeeAmt":"14.70","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 14:50:54">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100797","UsrCustId":"6000060061640134","OrdId":"20151124145014012745","OrdDate":"20151124","TransAmt":"9800.00","FeeAmt":"14.70","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:01:06">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101311","UsrCustId":"6000060067119197","OrdId":"20151124145845438272","OrdDate":"20151124","TransAmt":"48000.00","FeeAmt":"120.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:01:09">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101311","UsrCustId":"6000060067119197","OrdId":"20151124145845438272","OrdDate":"20151124","TransAmt":"48000.00","FeeAmt":"120.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:01:26">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101458","UsrCustId":"6000060068196191","OrdId":"20151124145924631140","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:01:27">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101458","UsrCustId":"6000060068196191","OrdId":"20151124145924631140","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:02:49">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101463","UsrCustId":"6000060068272367","OrdId":"20151124145515674866","OrdDate":"20151124","TransAmt":"5000.00","FeeAmt":"7.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:02:49">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101463","UsrCustId":"6000060068272367","OrdId":"20151124145515674866","OrdDate":"20151124","TransAmt":"5000.00","FeeAmt":"7.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:03:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101458","UsrCustId":"6000060068196191","OrdId":"20151124150243787130","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:03:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101458","UsrCustId":"6000060068196191","OrdId":"20151124150243787130","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:06:57">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101071","UsrCustId":"6000060065284822","OrdId":"20151124150352465442","OrdDate":"20151124","TransAmt":"30000.00","FeeAmt":"45.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:06:58">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101071","UsrCustId":"6000060065284822","OrdId":"20151124150352465442","OrdDate":"20151124","TransAmt":"30000.00","FeeAmt":"45.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:07:02">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101071","UsrCustId":"6000060065284822","OrdId":"20151124150352465442","OrdDate":"20151124","TransAmt":"30000.00","FeeAmt":"45.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:07:29">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101458","UsrCustId":"6000060068196191","OrdId":"20151124150649327967","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:07:31">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101458","UsrCustId":"6000060068196191","OrdId":"20151124150649327967","OrdDate":"20151124","TransAmt":"1500.00","FeeAmt":"2.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:08:07">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100728","UsrCustId":"6000060060694239","OrdId":"20151124150742145271","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"15.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:08:07">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100728","UsrCustId":"6000060060694239","OrdId":"20151124150742145271","OrdDate":"20151124","TransAmt":"10000.00","FeeAmt":"15.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:08:19">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101556","OpenAcctId":"6217872600000038253","OpenBankId":"BOC","UsrCustId":"6000060071875022"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:08:59">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101506","UsrCustId":"6000060069663335","OrdId":"20151124150713835506","OrdDate":"20151124","TransAmt":"5000.00","FeeAmt":"12.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:09:06">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101506","UsrCustId":"6000060069663335","OrdId":"20151124150713835506","OrdDate":"20151124","TransAmt":"5000.00","FeeAmt":"12.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:10:57">
+    <USERNAME>葛婉蓉</USERNAME>
+    <LOGINFO>{"UserID":"101566","NickName":"葛婉蓉","MobilePhone":"13517681520","Email":"261605045@qq.com","CardNo":"450104198510302043","CustId":"6000060072259758"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:14:12">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100706","UsrCustId":"6000060060011930","OrdId":"20151124151318560885","OrdDate":"20151124","TransAmt":"19900.00","FeeAmt":"29.85","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:14:13">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100706","UsrCustId":"6000060060011930","OrdId":"20151124151318560885","OrdDate":"20151124","TransAmt":"19900.00","FeeAmt":"29.85","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:15:00">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101117","UsrCustId":"6000060065699439","OrdId":"20151124151432435301","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:15:00">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101117","UsrCustId":"6000060065699439","OrdId":"20151124151432435301","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:16:29">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100611","UsrCustId":"6000060053018288","OrdId":"20151124151457436611","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:16:31">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100611","UsrCustId":"6000060053018288","OrdId":"20151124151457436611","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:18:47">
+    <USERNAME>程昉</USERNAME>
+    <LOGINFO>{"UserID":"101567","NickName":"程昉","MobilePhone":"18777199124","Email":"654355293@qq.com","CardNo":"450204198701241429","CustId":"6000060072262496"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:24:14">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101506","OpenAcctId":"6210986110006034239","OpenBankId":"PSBC","UsrCustId":"6000060069663335"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:24:16">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101138","OpenAcctId":"4340623370018186","OpenBankId":"CCB","UsrCustId":"6000060065938225"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:26:14">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100758","UsrCustId":"6000060060821020","OrdId":"20151124152515373719","OrdDate":"20151124","TransAmt":"31500.00","FeeAmt":"47.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:26:14">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100758","UsrCustId":"6000060060821020","OrdId":"20151124152515373719","OrdDate":"20151124","TransAmt":"31500.00","FeeAmt":"47.25","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:29:18">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101138","UsrCustId":"6000060065938225","OrdId":"20151124152718934899","OrdDate":"20151124","TransAmt":"20000.00","FeeAmt":"30.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:29:19">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101138","UsrCustId":"6000060065938225","OrdId":"20151124152718934899","OrdDate":"20151124","TransAmt":"20000.00","FeeAmt":"30.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:20">
+    <USERNAME>cck123</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153011115914","UsrCustId":"6000060060821020","TransAmt":"31500.00","BorrowID":"10273","UserName":"cck123","UserID":"100758","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153011269156","FreezeTrxId":"201511240026881819"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:22">
+    <USERNAME>xiangr1789</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153010167207","UsrCustId":"6000060060269957","TransAmt":"60000.00","BorrowID":"10273","UserName":"xiangr1789","UserID":"100711","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153010588748","FreezeTrxId":"201511240026881840"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:23">
+    <USERNAME>judy1207</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153012008261","UsrCustId":"6000060060493447","TransAmt":"3000.00","BorrowID":"10273","UserName":"judy1207","UserID":"100713","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153012106899","FreezeTrxId":"201511240026881837"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:25">
+    <USERNAME>jiayuan</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153014441072","UsrCustId":"6000060067119197","TransAmt":"48000.00","BorrowID":"10273","UserName":"jiayuan","UserID":"101311","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153014820537","FreezeTrxId":"201511240026881862"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:28">
+    <USERNAME>darkming2000</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153014160054","UsrCustId":"6000060043286499","TransAmt":"100.00","BorrowID":"10273","UserName":"darkming2000","UserID":"100415","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153014192483","FreezeTrxId":"201511240026881866"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:30">
+    <USERNAME>l1352869</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153016696209","UsrCustId":"6000060072134811","TransAmt":"50000.00","BorrowID":"10273","UserName":"l1352869","UserID":"101562","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153016562416","FreezeTrxId":"201511240026881894"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:33">
+    <USERNAME>hudebao_gx</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153023788344","UsrCustId":"6000060065699439","TransAmt":"50000.00","BorrowID":"10273","UserName":"hudebao_gx","UserID":"101117","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153023815514","FreezeTrxId":"201511240026881931"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:35">
+    <USERNAME>MGDG1023</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153020176181","UsrCustId":"6000060069663335","TransAmt":"5000.00","BorrowID":"10273","UserName":"MGDG1023","UserID":"101506","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153020707277","FreezeTrxId":"201511240026881939"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:37">
+    <USERNAME>liangliang2015</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153014276835","UsrCustId":"6000060043775567","TransAmt":"500.00","BorrowID":"10273","UserName":"liangliang2015","UserID":"100484","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153014026551","FreezeTrxId":"201511240026881952"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:39">
+    <USERNAME>L13997328340</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153023695281","UsrCustId":"6000060061642392","TransAmt":"50000.00","BorrowID":"10273","UserName":"L13997328340","UserID":"100805","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153023098368","FreezeTrxId":"201511240026881965"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:41">
+    <USERNAME>ldr2015</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153024741747","UsrCustId":"6000060043782096","TransAmt":"120000.00","BorrowID":"10273","UserName":"ldr2015","UserID":"100413","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153025042949","FreezeTrxId":"201511240026881970"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:43">
+    <USERNAME>lin444555</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153014675404","UsrCustId":"6000060043823346","TransAmt":"7000.00","BorrowID":"10273","UserName":"lin444555","UserID":"100503","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153014028333","FreezeTrxId":"201511240026881988"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:44">
+    <USERNAME>lujinchan80</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153032492292","UsrCustId":"6000060062773435","TransAmt":"200100.00","BorrowID":"10273","UserName":"lujinchan80","UserID":"100878","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153032421241","FreezeTrxId":"201511240026881999"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:52">
+    <USERNAME>winnie2004</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153013369240","UsrCustId":"6000060069379679","TransAmt":"33000.00","BorrowID":"10273","UserName":"winnie2004","UserID":"101501","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153013945781","FreezeTrxId":"201511240026882043"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:55">
+    <USERNAME>yhp691207</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153032024329","UsrCustId":"6000060064373140","TransAmt":"20000.00","BorrowID":"10273","UserName":"yhp691207","UserID":"100994","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153032969100","FreezeTrxId":"201511240026882024"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:30:56">
+    <USERNAME>yhp691207</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153032024329","UsrCustId":"6000060064373140","TransAmt":"20000.00","BorrowID":"10273","UserName":"yhp691207","UserID":"100994","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153032969100","FreezeTrxId":"201511240026882024"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:14">
+    <USERNAME>dyb133178808323</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153051846014","UsrCustId":"6000060065284822","TransAmt":"30000.00","BorrowID":"10273","UserName":"dyb133178808323","UserID":"101071","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153052508422","FreezeTrxId":"201511240026882141"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:30">
+    <USERNAME>zhuzhu01</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153114994151","UsrCustId":"6000060060694239","TransAmt":"10100.00","BorrowID":"10273","UserName":"zhuzhu01","UserID":"100728","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153114707435","FreezeTrxId":"201511240026882167"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:32">
+    <USERNAME>mxx_1974</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153121421649","UsrCustId":"6000060064784367","TransAmt":"2000.00","BorrowID":"10273","UserName":"mxx_1974","UserID":"100991","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153121593227","FreezeTrxId":"201511240026882206"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:36">
+    <USERNAME>zhuzhu01</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153114994151","UsrCustId":"6000060060694239","TransAmt":"10100.00","BorrowID":"10273","UserName":"zhuzhu01","UserID":"100728","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153114707435","FreezeTrxId":"201511240026882167"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:40">
+    <USERNAME>CC4713329</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153126122982","UsrCustId":"6000060064843721","TransAmt":"70000.00","BorrowID":"10273","UserName":"CC4713329","UserID":"101041","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153126032532","FreezeTrxId":"201511240026882242"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:40">
+    <USERNAME>lzynn938</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153130919555","UsrCustId":"6000060060011930","TransAmt":"120000.00","BorrowID":"10273","UserName":"lzynn938","UserID":"100706","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153130844375","FreezeTrxId":"201511240026882239"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:31:46">
+    <USERNAME>cxlgdst</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153133347159","UsrCustId":"6000060045950355","TransAmt":"2700.00","BorrowID":"10273","UserName":"cxlgdst","UserID":"100542","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153133589493","FreezeTrxId":"201511240026882283"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:04">
+    <USERNAME>feifei</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153139043015","UsrCustId":"6000060062810243","TransAmt":"80000.00","BorrowID":"10273","UserName":"feifei","UserID":"100882","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153140969833","FreezeTrxId":"201511240026882357"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:16">
+    <USERNAME>ganguoli</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153202195980","UsrCustId":"6000060068196191","TransAmt":"6000.00","BorrowID":"10273","UserName":"ganguoli","UserID":"101458","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153202021082","FreezeTrxId":"201511240026882393"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:19">
+    <USERNAME>raoli991216</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153202406284","UsrCustId":"6000060071770297","TransAmt":"1000000.00","BorrowID":"10273","UserName":"raoli991216","UserID":"101552","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153202492662","FreezeTrxId":"201511240026882401"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:24">
+    <USERNAME>liberte_xin</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153215000544","UsrCustId":"6000060068272367","TransAmt":"5000.00","BorrowID":"10273","UserName":"liberte_xin","UserID":"101463","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153215742558","FreezeTrxId":"201511240026882410"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:29">
+    <USERNAME>ZHANGCHENG</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153215131045","UsrCustId":"6000060059843543","TransAmt":"28000.00","BorrowID":"10273","UserName":"ZHANGCHENG","UserID":"100703","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153215534611","FreezeTrxId":"201511240026882425"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:30">
+    <USERNAME>zhangsongfeng</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153218115881","UsrCustId":"6000060051625401","TransAmt":"10000.00","BorrowID":"10273","UserName":"zhangsongfeng","UserID":"100625","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153218718039","FreezeTrxId":"201511240026882427"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:30">
+    <USERNAME>weiliuzhen</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153219813074","UsrCustId":"6000060067246433","TransAmt":"6000.00","BorrowID":"10273","UserName":"weiliuzhen","UserID":"101378","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153219707199","FreezeTrxId":"201511240026882429"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:37">
+    <USERNAME>xqe441204570</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153213249747","UsrCustId":"6000060061640134","TransAmt":"10000.00","BorrowID":"10273","UserName":"xqe441204570","UserID":"100797","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153213879569","FreezeTrxId":"201511240026882442"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:32:50">
+    <USERNAME>d848991357</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153032777109","UsrCustId":"6000060065970233","TransAmt":"50000.00","BorrowID":"10273","UserName":"d848991357","UserID":"101139","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153033169206","FreezeTrxId":"201511240026882473"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:33:01">
+    <USERNAME>ffgslby</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153238050070","UsrCustId":"6000060060581789","TransAmt":"12100.00","BorrowID":"10273","UserName":"ffgslby","UserID":"100717","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153238860923","FreezeTrxId":"201511240026882507"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:33:05">
+    <USERNAME>nn5530626</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153209318980","UsrCustId":"6000060063126918","TransAmt":"100900.00","BorrowID":"10273","UserName":"nn5530626","UserID":"100908","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153209123594","FreezeTrxId":"201511240026882521"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:33:19">
+    <USERNAME>lcf1988</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153157371895","UsrCustId":"6000060067243551","TransAmt":"100.00","BorrowID":"10273","UserName":"lcf1988","UserID":"101362","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153157803088","FreezeTrxId":"201511240026882562"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:33:31">
+    <USERNAME>kidy425</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153139047850","UsrCustId":"6000060063542497","TransAmt":"8000.00","BorrowID":"10273","UserName":"kidy425","UserID":"100925","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153139701825","FreezeTrxId":"201511240026882594"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:33:33">
+    <USERNAME>Z18709720090</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153314286274","UsrCustId":"6000060065632377","TransAmt":"50000.00","BorrowID":"10273","UserName":"Z18709720090","UserID":"101112","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153314417059","FreezeTrxId":"201511240026882596"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:33:48">
+    <USERNAME>lxp728</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153335329416","UsrCustId":"6000060063018385","TransAmt":"5000.00","BorrowID":"10273","UserName":"lxp728","UserID":"100902","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153335560056","FreezeTrxId":"201511240026882631"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:34:04">
+    <USERNAME>gxlpolo</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153350047775","UsrCustId":"6000060065938225","TransAmt":"20000.00","BorrowID":"10273","UserName":"gxlpolo","UserID":"101138","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153350753603","FreezeTrxId":"201511240026882664"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:34:06">
+    <USERNAME>luoqiaoyi1992</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153349372730","UsrCustId":"6000060066712154","TransAmt":"300.00","BorrowID":"10273","UserName":"luoqiaoyi1992","UserID":"101205","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153349293915","FreezeTrxId":"201511240026882669"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:34:08">
+    <USERNAME>101537</USERNAME>
+    <LOGINFO>{"UserID":"101537","CardID":"746","OrdId":"20151124153350107992","UsrCustId":"6000060071558259","TransAmt":"100.00","RealTransAmt":"98.00","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"2.00","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:35:08">
+    <USERNAME>yf7199</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153459963014","UsrCustId":"6000060069172927","TransAmt":"180000.00","BorrowID":"10273","UserName":"yf7199","UserID":"101485","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153500000431","FreezeTrxId":"201511240026882846"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:35:30">
+    <USERNAME>fengla</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153516097576","UsrCustId":"6000060064227914","TransAmt":"5500.00","BorrowID":"10273","UserName":"fengla","UserID":"100992","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153516677690","FreezeTrxId":"201511240026882919"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:36:16">
+    <USERNAME>wtu315127560</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153600771518","UsrCustId":"6000060067244998","TransAmt":"300.00","BorrowID":"10273","UserName":"wtu315127560","UserID":"101371","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153600721341","FreezeTrxId":"201511240026883019"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:36:23">
+    <USERNAME>A47438486</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153550812224","UsrCustId":"6000060067321592","TransAmt":"1000.00","BorrowID":"10273","UserName":"A47438486","UserID":"101214","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153550948088","FreezeTrxId":"201511240026883053"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:37:36">
+    <USERNAME>OYH968305</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153713259313","UsrCustId":"6000060061628666","TransAmt":"51400.00","BorrowID":"10273","UserName":"OYH968305","UserID":"100810","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153713720813","FreezeTrxId":"201511240026883203"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:37:38">
+    <USERNAME>Calvin</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153722906177","UsrCustId":"6000060043369630","TransAmt":"3000.00","BorrowID":"10273","UserName":"Calvin","UserID":"100453","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153722797629","FreezeTrxId":"201511240026883208"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:39:41">
+    <USERNAME>taoxi_55</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153927104247","UsrCustId":"6000060043306510","TransAmt":"80000.00","BorrowID":"10273","UserName":"taoxi_55","UserID":"100432","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153927152110","FreezeTrxId":"201511240026883447"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:40:31">
+    <USERNAME>gxlzwc19640131</USERNAME>
+    <LOGINFO>{"OrdId":"20151124154018987560","UsrCustId":"6000060053018288","TransAmt":"100000.00","BorrowID":"10273","UserName":"gxlzwc19640131","UserID":"100611","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124154018986234","FreezeTrxId":"201511240026883553"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:41:17">
+    <USERNAME>chenxiangyu0429</USERNAME>
+    <LOGINFO>{"OrdId":"20151124154103602801","UsrCustId":"6000060067244685","TransAmt":"100.00","BorrowID":"10273","UserName":"chenxiangyu0429","UserID":"101370","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124154103835047","FreezeTrxId":"201511240026883632"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:41:44">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154001145426","OrdDate":"20151124","TransAmt":"1700.00","FeeAmt":"2.55","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:41:44">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154001145426","OrdDate":"20151124","TransAmt":"1700.00","FeeAmt":"2.55","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:42:00">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154001145426","OrdDate":"20151124","TransAmt":"1700.00","FeeAmt":"2.55","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:43:29">
+    <USERNAME>Calvin</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153910745170","UsrCustId":"6000060043369630","TransAmt":"800.00","BorrowID":"10273","UserName":"Calvin","UserID":"100453","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153910776746","FreezeTrxId":"201511240026883798"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:43:54">
+    <USERNAME>lym_1982</USERNAME>
+    <LOGINFO>{"OrdId":"20151124154254939331","UsrCustId":"6000060061946297","TransAmt":"50000.00","BorrowID":"10273","UserName":"lym_1982","UserID":"100850","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124154254507535","FreezeTrxId":"201511240026883821"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:44:01">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101108","UsrCustId":"6000060065997394","OrdId":"20151124154156292648","OrdDate":"20151124","TransAmt":"10.00","FeeAmt":"0.03","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:44:07">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101108","UsrCustId":"6000060065997394","OrdId":"20151124154156292648","OrdDate":"20151124","TransAmt":"10.00","FeeAmt":"0.03","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:44:51">
+    <USERNAME>LL19721020</USERNAME>
+    <LOGINFO>{"OrdId":"20151124154443367861","UsrCustId":"6000060043318776","TransAmt":"200.00","BorrowID":"10273","UserName":"LL19721020","UserID":"100438","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124154443689436","FreezeTrxId":"201511240026883876"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:47:32">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154531573989","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:47:33">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154531573989","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:47:37">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154531573989","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:49:58">
+    <USERNAME>lishuchai</USERNAME>
+    <LOGINFO>{"OrdId":"20151124153919308438","UsrCustId":"6000060065109898","TransAmt":"100.00","BorrowID":"10273","UserName":"lishuchai","UserID":"101062","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124153919971875","FreezeTrxId":"201511240026884176"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:50:26">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154915161884","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:50:31">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154915161884","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:00">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100849","UsrCustId":"6000060061942834","OrdId":"20151124155034521851","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:00">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100849","UsrCustId":"6000060061942834","OrdId":"20151124155034521851","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:15">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124154915161884","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:49">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100849","UsrCustId":"6000060061942834","OrdId":"20151124155130937381","OrdDate":"20151124","TransAmt":"40000.00","FeeAmt":"60.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:49">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100849","UsrCustId":"6000060061942834","OrdId":"20151124155130937381","OrdDate":"20151124","TransAmt":"40000.00","FeeAmt":"60.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:56">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155047872852","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:51:56">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155047872852","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:52:01">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155047872852","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:52:37">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101062","UsrCustId":"6000060065109898","OrdId":"20151124155212945314","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:52:37">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101062","UsrCustId":"6000060065109898","OrdId":"20151124155212945314","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:53:04">
+    <USERNAME>lyklrl1018</USERNAME>
+    <LOGINFO>{"OrdId":"20151124155228698511","UsrCustId":"6000060043054499","TransAmt":"14700.00","BorrowID":"10273","UserName":"lyklrl1018","UserID":"100398","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124155228676994","FreezeTrxId":"201511240026884475"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:53:48">
+    <USERNAME>zm_1989</USERNAME>
+    <LOGINFO>{"OrdId":"20151124155322361712","UsrCustId":"6000060061942834","TransAmt":"90000.00","BorrowID":"10273","UserName":"zm_1989","UserID":"100849","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124155322592180","FreezeTrxId":"201511240026884532"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:54:16">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155259317077","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:54:16">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155259317077","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:54:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155259317077","OrdDate":"20151124","TransAmt":"1000.00","FeeAmt":"1.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:54:26">
+    <USERNAME>xieyi1983</USERNAME>
+    <LOGINFO>{"OrdId":"20151124155357486023","UsrCustId":"6000060065372674","TransAmt":"20000.00","BorrowID":"10273","UserName":"xieyi1983","UserID":"101083","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124155357939039","FreezeTrxId":"201511240026884574"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:55:46">
+    <USERNAME>lishuchai</USERNAME>
+    <LOGINFO>{"OrdId":"20151124155542342259","UsrCustId":"6000060065109898","TransAmt":"50000.00","BorrowID":"10273","UserName":"lishuchai","UserID":"101062","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124155542179714","FreezeTrxId":"201511240026884735"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:57:03">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155531860886","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:57:04">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155531860886","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:57:08">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100803","UsrCustId":"6000060061569220","OrdId":"20151124155531860886","OrdDate":"20151124","TransAmt":"3000.00","FeeAmt":"4.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:57:30">
+    <USERNAME>100737</USERNAME>
+    <LOGINFO>{"UserID":"100737","CardID":"472","OrdId":"20151124155704754767","UsrCustId":"6000060060710284","TransAmt":"4436.00","RealTransAmt":"4429.35","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"6.65","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:58:38">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100506","UsrCustId":"6000060043834691","OrdId":"20151124155724972262","OrdDate":"20151124","TransAmt":"1998.00","FeeAmt":"3.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:59:06">
+    <USERNAME>meng68520</USERNAME>
+    <LOGINFO>{"OrdId":"20151124155857898507","UsrCustId":"6000060043834691","TransAmt":"2000.00","BorrowID":"10273","UserName":"meng68520","UserID":"100506","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124155857269676","FreezeTrxId":"201511240026885706"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 15:59:21">
+    <USERNAME>YJLB761018</USERNAME>
+    <LOGINFO>{"OrdId":"20151124155908034241","UsrCustId":"6000060043398001","TransAmt":"100.00","BorrowID":"10273","UserName":"YJLB761018","UserID":"100439","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124155908806841","FreezeTrxId":"201511240026885819"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:01:14">
+    <USERNAME>wy5016</USERNAME>
+    <LOGINFO>{"OrdId":"20151124160059521035","UsrCustId":"6000060059449266","TransAmt":"2000.00","BorrowID":"10273","UserName":"wy5016","UserID":"100686","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124160059437427","FreezeTrxId":"201511240026887013"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:06:26">
+    <USERNAME>Gxamai</USERNAME>
+    <LOGINFO>{"OrdId":"20151124160607057706","UsrCustId":"6000060062804973","TransAmt":"5000.00","BorrowID":"10273","UserName":"Gxamai","UserID":"100880","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124160607761625","FreezeTrxId":"201511240026890243"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:10:43">
+    <USERNAME>fang412714</USERNAME>
+    <LOGINFO>{"OrdId":"20151124160850293550","UsrCustId":"6000060065187367","TransAmt":"10000.00","BorrowID":"10273","UserName":"fang412714","UserID":"101067","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124160850732087","FreezeTrxId":"201511240026891065"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:14:44">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100884","UsrCustId":"6000060062814374","OrdId":"20151124161129767084","OrdDate":"20151124","TransAmt":"15000.00","FeeAmt":"22.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:14:46">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100884","UsrCustId":"6000060062814374","OrdId":"20151124161129767084","OrdDate":"20151124","TransAmt":"15000.00","FeeAmt":"22.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:14:48">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100884","UsrCustId":"6000060062814374","OrdId":"20151124161129767084","OrdDate":"20151124","TransAmt":"15000.00","FeeAmt":"22.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:15:45">
+    <USERNAME>yugongcaihong</USERNAME>
+    <LOGINFO>{"OrdId":"20151124161533512599","UsrCustId":"6000060062814374","TransAmt":"5000.00","BorrowID":"10273","UserName":"yugongcaihong","UserID":"100884","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124161533803418","FreezeTrxId":"201511240026891780"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 16:27:26">
+    <USERNAME>becky310</USERNAME>
+    <LOGINFO>{"OrdId":"20151124162714721574","UsrCustId":"6000060043237621","TransAmt":"24400.00","BorrowID":"10273","UserName":"becky310","UserID":"100407","Reimburse":"16","AnnualRate":"10.80","BorrowValidate":"1","BorrowUserID":"101534","FreezeOrdId":"20151124162715918810","FreezeTrxId":"201511240026893625"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveInitiativeTenderInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 17:12:31">
+    <USERNAME>100649</USERNAME>
+    <LOGINFO>{"UserID":"100649","CardID":"243","OrdId":"20151124171209357304","UsrCustId":"6000060055117372","TransAmt":"103900.00","RealTransAmt":"103744.15","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"155.85","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 18:40:29">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100787","UsrCustId":"6000060061350349","OrdId":"20151124183855987618","OrdDate":"20151124","TransAmt":"14000.00","FeeAmt":"21.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 18:57:46">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101362","UsrCustId":"6000060067243551","OrdId":"20151124185659006805","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 18:57:46">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101362","UsrCustId":"6000060067243551","OrdId":"20151124185659006805","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:05:10">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101547","UsrCustId":"6000060071697796","OrdId":"20151124190339547185","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:05:11">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101547","UsrCustId":"6000060071697796","OrdId":"20151124190339547185","OrdDate":"20151124","TransAmt":"50000.00","FeeAmt":"75.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:06:59">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101452","OpenAcctId":"6227003372160048289","OpenBankId":"CCB","UsrCustId":"6000060068014958"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:07:24">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","OpenAcctId":"6217003370007857509","OpenBankId":"CCB","UsrCustId":"6000060069564139"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:10:58">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100701","UsrCustId":"6000060059713639","OrdId":"20151124190853752325","OrdDate":"20151124","TransAmt":"2000.00","FeeAmt":"3.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:10:58">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100701","UsrCustId":"6000060059713639","OrdId":"20151124190853752325","OrdDate":"20151124","TransAmt":"2000.00","FeeAmt":"3.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:16:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","UsrCustId":"6000060069564139","OrdId":"20151124191535978868","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:16:23">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","UsrCustId":"6000060069564139","OrdId":"20151124191535978868","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:16:27">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","UsrCustId":"6000060069564139","OrdId":"20151124191535978868","OrdDate":"20151124","TransAmt":"100.00","FeeAmt":"0.15","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:22:50">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","UsrCustId":"6000060069564139","OrdId":"20151124192148699962","OrdDate":"20151124","TransAmt":"49900.00","FeeAmt":"74.85","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:22:52">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","UsrCustId":"6000060069564139","OrdId":"20151124192148699962","OrdDate":"20151124","TransAmt":"49900.00","FeeAmt":"74.85","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 19:22:56">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101219","UsrCustId":"6000060069564139","OrdId":"20151124192148699962","OrdDate":"20151124","TransAmt":"49900.00","FeeAmt":"74.85","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:00:12">
+    <USERNAME>宫铭锶</USERNAME>
+    <LOGINFO>{"UserID":"101568","NickName":"宫铭锶","MobilePhone":"15277116911","Email":"gong_ms@gx.csg.cn","CardNo":"220224197511262227","CustId":"6000060072393826"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:01:10">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100908","UsrCustId":"6000060063126918","OrdId":"20151124225945907375","OrdDate":"20151124","TransAmt":"9000.00","FeeAmt":"13.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:01:11">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100908","UsrCustId":"6000060063126918","OrdId":"20151124225945907375","OrdDate":"20151124","TransAmt":"9000.00","FeeAmt":"13.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:01:17">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100908","UsrCustId":"6000060063126918","OrdId":"20151124225945907375","OrdDate":"20151124","TransAmt":"9000.00","FeeAmt":"13.50","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:22:12">
+    <USERNAME>孔繁星</USERNAME>
+    <LOGINFO>{"UserID":"101569","NickName":"孔繁星","MobilePhone":"13707882880","Email":"2368420006@qq.com","CardNo":"450103197212111096","CustId":"6000060072397350"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:27:32">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101568","OpenAcctId":"6222032102000492611","OpenBankId":"ICBC","UsrCustId":"6000060072393826"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:50:19">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101568","UsrCustId":"6000060072393826","OrdId":"20151124234813369300","OrdDate":"20151124","TransAmt":"20000.00","FeeAmt":"30.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151124 23:50:20">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101568","UsrCustId":"6000060072393826","OrdId":"20151124234813369300","OrdDate":"20151124","TransAmt":"20000.00","FeeAmt":"30.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

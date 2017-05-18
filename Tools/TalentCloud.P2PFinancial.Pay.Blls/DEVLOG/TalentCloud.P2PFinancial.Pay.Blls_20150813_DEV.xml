@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150813 13:25:50">
+    <USERNAME>何刚</USERNAME>
+    <LOGINFO>{"UserID":"100610","NickName":"%E4%BD%95%E5%88%9A","MobilePhone":"15172342866","Email":"he6166%40163.com","CardNo":"420123197912283753","CustId":"6000060050963430"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150813 15:33:12">
+    <USERNAME>农馨怡</USERNAME>
+    <LOGINFO>{"UserID":"100612","NickName":"%E5%86%9C%E9%A6%A8%E6%80%A1","MobilePhone":"18677926313","Email":"674984784%40qq.com","CardNo":"450122197602287520","CustId":"6000060050982794"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

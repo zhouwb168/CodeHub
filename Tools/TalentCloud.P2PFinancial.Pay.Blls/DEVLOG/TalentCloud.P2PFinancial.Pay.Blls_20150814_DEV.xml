@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150814 10:35:55">
+    <USERNAME>100392</USERNAME>
+    <LOGINFO>{"UserID":"100392","CardID":"58","OrdId":"20150814103538805708","UsrCustId":"6000060043113112","TransAmt":"100.00","RealTransAmt":"100.00","FeeAmt":"2.15","FeeCustId":"6000060043113112","FeeAcctId":"MDT000001","ServFee":"","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150814 16:57:05">
+    <USERNAME>陆媚媚</USERNAME>
+    <LOGINFO>{"UserID":"100616","NickName":"%E9%99%86%E5%AA%9A%E5%AA%9A","MobilePhone":"13978795033","Email":"460897771%40qq.com","CardNo":"450121198410013048","CustId":"6000060051125102"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150814 17:04:38">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100616","OpenAcctId":"6217003370011705355","OpenBankId":"CCB","UsrCustId":"6000060051125102"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150814 17:48:13">
+    <USERNAME>100392</USERNAME>
+    <LOGINFO>{"UserID":"100392","CardID":"58","OrdId":"20150814174755281247","UsrCustId":"6000060043113112","TransAmt":"100.00","RealTransAmt":"100.00","FeeAmt":"2.00","FeeCustId":"6000060043113112","FeeAcctId":"MDT000001","ServFee":"","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

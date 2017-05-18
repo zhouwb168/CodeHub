@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150827 02:28:04">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100636","CompanyName":"南宁多牧生物科技有限公司","CustId":"6000060052858176","OpenBankId":"HXB","CardId":"13052000000041873"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdateCompanyInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150827 10:42:21">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100397","UsrCustId":"6000060043107432","OrdId":"20150827103329615133","OrdDate":"20150827","TransAmt":"10000.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150827 13:56:30">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100393","UsrCustId":"6000060043260621","OrdId":"20150827112344509011","OrdDate":"20150827","TransAmt":"15000.00","FeeAmt":"10.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","RewardAmt":"0.00"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveNetSaveInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150827 15:03:48">
+    <USERNAME>杨甜华</USERNAME>
+    <LOGINFO>{"UserID":"100611","NickName":"%E6%9D%A8%E7%94%9C%E5%8D%8E","MobilePhone":"15177791831","Email":"490604376%40qq.com","CardNo":"450202196401310646","CustId":"6000060053018288"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150827 18:53:14">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100632","CompanyName":"广西博贝隆建设工程有限公司","CustId":"6000060052942959","OpenBankId":"BOCOM","CardId":"451060506018010058610"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdateCompanyInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

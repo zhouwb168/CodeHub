@@ -1,0 +1,12 @@
+E:\work\Tools\ScreenView\ScreenView\bin\Debug\Browser.exe.config
+E:\work\Tools\ScreenView\ScreenView\bin\Debug\Browser.exe
+E:\work\Tools\ScreenView\ScreenView\bin\Debug\Browser.pdb
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.MainBrowser.resources
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.Properties.Resources.resources
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.csproj.GenerateResource.Cache
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.exe
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.pdb
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.frmMain.resources
+E:\work\Tools\ScreenView\ScreenView\bin\Debug\CefSharp.dll
+E:\work\Tools\ScreenView\ScreenView\bin\Debug\CefSharp.WinForms.dll
+E:\work\Tools\ScreenView\ScreenView\obj\x86\Debug\Browser.csprojResolveAssemblyReference.cache

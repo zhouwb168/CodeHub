@@ -1,0 +1,16 @@
+（以下操作在 .NET Framework 3.5 SP1 中测试通过）
+
+一、将所有文件拖入到 Visual Studio 对应的 WinForm 项目中。
+
+二、在解决方案中，在这些文件上右键，选择属性，在“复制到输出目录”中选择“始终复制”（不要忘了 locales 中的文件也要这样操作）。
+
+三、项目上右键添加引用：CefSharp.dll、CefSharp.WinForms.dll
+
+四、在 WinForm 相应的位置使用类似如下的代码：
+using CefSharp.WinForms;
+using CefSharp;
+
+WebView wv = new WebView();
+wv.Address = "http://www.cftea.com/";
+wv.Parent = this;
+wv.Dock = DockStyle.Fill;

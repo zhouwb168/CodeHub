@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20151115 21:31:02">
+    <USERNAME>韦益梅</USERNAME>
+    <LOGINFO>{"UserID":"101509","NickName":"韦益梅","MobilePhone":"13347687701","Email":"1364480478@qq.com","CardNo":"452702197408050967","CustId":"6000060069893729"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20151115 21:35:29">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"101509","OpenAcctId":"6227003373190056425","OpenBankId":"CCB","UsrCustId":"6000060069893729"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

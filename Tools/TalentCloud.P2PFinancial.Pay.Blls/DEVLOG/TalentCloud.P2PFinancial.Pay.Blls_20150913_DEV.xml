@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150913 13:02:03">
+    <USERNAME>
+    </USERNAME>
+    <LOGINFO>{"UserID":"100595","OpenAcctId":"6222620760003057711","OpenBankId":"BOCOM","UsrCustId":"6000060050520926"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 BindBankCard(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+  <DATETIME VALUE="20150913 13:03:46">
+    <USERNAME>100595</USERNAME>
+    <LOGINFO>{"UserID":"100595","CardID":"256","OrdId":"20150913130323661240","UsrCustId":"6000060050520926","TransAmt":"42630.00","RealTransAmt":"42566.05","FeeAmt":"2.00","FeeCustId":"6000060042937500","FeeAcctId":"MDT000001","ServFee":"63.95","ServFeeAcctId":"MDT000001"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.TradBaseInfo</CLASSNAME>
+    <METHOD>Int32 SaveCashInfo(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>

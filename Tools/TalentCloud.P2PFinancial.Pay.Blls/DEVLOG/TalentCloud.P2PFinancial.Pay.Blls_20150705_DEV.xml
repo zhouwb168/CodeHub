@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOG FLAG="DEV">
+  <DATETIME VALUE="20150705 08:49:40">
+    <USERNAME>覃舒凯</USERNAME>
+    <LOGINFO>{"UserID":"100530","NickName":"%E8%A6%83%E8%88%92%E5%87%AF","MobilePhone":"18077110898","Email":"215589430%40qq.com","CardNo":"452702198710184362","CustId":"6000060044875056"}</LOGINFO>
+    <DEVLOGINFO>
+    </DEVLOGINFO>
+    <CLASSNAME>TalentCloud.P2PFinancial.Pay.Blls.UserBaseInfo</CLASSNAME>
+    <METHOD>Int32 UpdatePersonAccount(TalentCloud.Base.Entities.Entity)</METHOD>
+  </DATETIME>
+</LOG>
